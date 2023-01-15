@@ -4,6 +4,6 @@
   position: relative;
   display: flex;
   min-height: 890px;
-  margin: auto;
+  margin: 0 auto;
   flex-direction: column;
 }
